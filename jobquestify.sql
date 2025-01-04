@@ -105,8 +105,8 @@ CREATE TABLE IF NOT EXISTS `user` (
 --
 
 INSERT INTO `user` (`id`, `first_name`, `last_name`, `email`, `password`, `role`) VALUES
-(1, 'Kerstin', 'Tan', 'kerstin@gmail.com', 'abc', 'admin'),
-(2, 'Ahmad', 'Kanaan', 'ahmad@gmail.com', 'abc', 'user');
+(1, 'Abdelrahman', 'kanaan', 'Abdelrahman@gmail.com', 'abc', 'admin'),
+(2, 'Abdulaziz', 'Kanaan', 'Abdulaziz@gmail.com', 'abc', 'user');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
